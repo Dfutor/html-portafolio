@@ -97,7 +97,7 @@ Durante este proyecto aprendimos:
 - Abre con cualquier navegador moderno
 
 ### O :
-Link: 
+[Haz clic aquí para verlo en vivo](https://dfutor.github.io/html-portafolio/)
 
 ## 📚 Aprendizajes Clave
 
@@ -140,3 +140,4 @@ Proyecto desarrollado con fines educativos como parte del programa Oracle Next E
 ---
 
 **Desarrollado con ❤️ durante el programa Oracle Next Education + Alura Latam**
+
